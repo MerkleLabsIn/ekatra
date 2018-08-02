@@ -1,0 +1,40 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  margin-bottom: 30px;
+}
+
+h3 {
+  line-height: 30px;
+}
+
+footer {
+  position: fixed;
+  bottom: 8px;
+  text-align: center;
+  width: 100%;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #000;
+}
+
+.home-link {
+  position: fixed;
+  right: 120px;
+  top: 40px;
+}
+
+.notification {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+}
